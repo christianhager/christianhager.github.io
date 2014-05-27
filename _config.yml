@@ -1,0 +1,6 @@
+name: FRAM VENTURE
+markdown: redcarpet
+pygments: true
+hostname: framventure.no
+pages_hostname: github.io
+api_url: https://api.github.com
