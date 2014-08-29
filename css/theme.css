@@ -1171,6 +1171,9 @@ section .login-overlay {
 .page-header {
   border-bottom: 0;
 }
+#intro{
+  background:#333;
+}
 #intro-video {
   background: url('../img/bg-videofallback.jpg');
   background-size: cover;
